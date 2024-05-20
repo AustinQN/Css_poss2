@@ -1,3 +1,4 @@
+
 /* Global rules */
 
 @import url("https://fonts.googleapis.com/css?family=Quicksand|Spectral");
@@ -80,6 +81,7 @@ footer {
 .text-align-center {
   text-align: center;
   background-color: aqua;
+  margin-top: 26.8em;
 }
 * {
   box-sizing: border-box;
